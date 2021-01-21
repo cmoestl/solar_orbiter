@@ -12,7 +12,7 @@ notebooks:
 
 
 - forstner_2020_visuals
-- event_visuals_june7
+- event_visuals_june7 (uses cmesig environment)
 - 3dcore_fit
 - 3dcore_synHI
 - cme_initial
