@@ -9,3 +9,5 @@ jupyterlab==2.2.4
 drms==0.5.7
 zeep==3.4.0
 glymur==0.9.2
+corner==2.1.0
+astroquery==0.4.1

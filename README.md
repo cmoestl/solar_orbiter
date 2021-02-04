@@ -5,19 +5,19 @@ My codes for Solar Orbiter data analysis in python, in particular with the 3DCOR
 If you want to use parts of this code for generating results for **peer-reviewed scientific publications, please contact me per email** (christian.moestl@oeaw.ac.at) or via https://twitter.com/chrisoutofspace for co-authorships.
 
 
-Current status (Jan 2021): work in progress.
+Current status (Feb 2021): **work in progress**.
 
 
 notebooks:
 
-
-- forstner_2020_visuals
-- event_visuals_june7 (uses cmesig environment)
-- 3dcore_fit
-- 3dcore_synHI
-- cme_initial
-- plot_gong
-- psp_flyby_imaging 
+- forstner_2020_visuals: for Forstner et al. 2021 paper
+- event_visuals_june7: for Telloni et al. 2021 paper (uses cmesig environment) 
+- 3dcore_fit: fit in situ 
+- 3dcore_synHI: synthetic HI images
+- 3dcore_gcs: makes plots in comparison to the GCS model 
+- cme_initial: for real time synthetic profiles
+- plot_gong: tests with PFSS
+- psp_flyby_imaging: tests for PSP 
 
 
 ---
