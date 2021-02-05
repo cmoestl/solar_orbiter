@@ -19,7 +19,6 @@ notebooks:
 - psp_flyby_imaging: tests for PSP 
 - shock_analysis: simple shock analysis with co-planarity
 
-
 ---
 
 ## Installation 
