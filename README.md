@@ -18,6 +18,7 @@ notebooks:
 - cme_initial: for real time synthetic profiles
 - plot_gong: tests with PFSS
 - psp_flyby_imaging: tests for PSP 
+- shock_analysis: simple shock analysis with co-planarity
 
 
 ---
