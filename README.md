@@ -7,7 +7,6 @@ If you want to use parts of this code for generating results for **peer-reviewed
 
 Current status (Feb 2021): **work in progress**.
 
-
 notebooks:
 
 - forstner_2020_visuals: for Forstner et al. 2021 paper
